@@ -17,6 +17,6 @@ https://hammerme.glitch.me/
 
 # Procedures 
 
-if scam - phising was detected you must reprot in the following 
+if scam - phising was detected you must report in the following 
 
 https://phishtank.org/
