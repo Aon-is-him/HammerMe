@@ -20,3 +20,6 @@ https://hammerme.glitch.me/
 if scam - phising was detected you must report in the following 
 
 https://phishtank.org/
+
+
+<a target="_blank" href="https://glitch.com/edit/#!/import/github/BinBashBanana/deploy-buttons"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
